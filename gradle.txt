@@ -1,0 +1,159 @@
+Starting Build
+Starting file lock listener thread.
+Settings evaluated using settings file '/Users/Ken/Projects/MAX/OmroepMaxPlayer/settings.gradle'.
+Projects loaded. Root project using build file '/Users/Ken/Projects/MAX/OmroepMaxPlayer/build.gradle'.
+Included projects: [root project 'OmroepMaxPlayer', project ':OmroepMaxPlayer', project ':TwoWayGridView']
+Evaluating root project 'OmroepMaxPlayer' using build file '/Users/Ken/Projects/MAX/OmroepMaxPlayer/build.gradle'.
+Evaluating project ':OmroepMaxPlayer' using build file '/Users/Ken/Projects/MAX/OmroepMaxPlayer/OmroepMaxPlayer/build.gradle'.
+Evaluating project ':TwoWayGridView' using build file '/Users/Ken/Projects/MAX/OmroepMaxPlayer/TwoWayGridView/build.gradle'.
+All projects evaluated.
+Selected primary task 'compileDebug'
+Tasks to be executed: [task ':TwoWayGridView:mergeReleaseProguardFiles', task ':TwoWayGridView:packageReleaseAidl', task ':TwoWayGridView:prepareReleaseDependencies', task ':TwoWayGridView:compileReleaseAidl', task ':TwoWayGridView:generateReleaseBuildConfig', task ':TwoWayGridView:mergeReleaseAssets', task ':TwoWayGridView:compileReleaseRenderscript', task ':TwoWayGridView:mergeReleaseResources', task ':TwoWayGridView:processReleaseManifest', task ':TwoWayGridView:processReleaseResources', task ':TwoWayGridView:compileRelease', task ':TwoWayGridView:processReleaseJavaRes', task ':TwoWayGridView:packageReleaseJar', task ':TwoWayGridView:packageReleaseLocalJar', task ':TwoWayGridView:packageReleaseRenderscript', task ':TwoWayGridView:packageReleaseResources', task ':TwoWayGridView:bundleRelease', task ':OmroepMaxPlayer:prepareComActionbarsherlockActionbarsherlock440Library', task ':OmroepMaxPlayer:prepareOmroepMaxPlayerTwoWayGridViewUnspecifiedLibrary', task ':OmroepMaxPlayer:prepareDebugDependencies', task ':OmroepMaxPlayer:compileDebugAidl', task ':OmroepMaxPlayer:generateDebugBuildConfig', task ':OmroepMaxPlayer:mergeDebugAssets', task ':OmroepMaxPlayer:compileDebugRenderscript', task ':OmroepMaxPlayer:mergeDebugResources', task ':OmroepMaxPlayer:processDebugManifest', task ':OmroepMaxPlayer:processDebugResources', task ':OmroepMaxPlayer:compileDebug', task ':TwoWayGridView:prepareDebugDependencies', task ':TwoWayGridView:compileDebugAidl', task ':TwoWayGridView:generateDebugBuildConfig', task ':TwoWayGridView:mergeDebugAssets', task ':TwoWayGridView:compileDebugRenderscript', task ':TwoWayGridView:mergeDebugResources', task ':TwoWayGridView:processDebugManifest', task ':TwoWayGridView:processDebugResources', task ':TwoWayGridView:compileDebug']
+:TwoWayGridView:mergeReleaseProguardFiles (Thread[main,5,main] - start
+:TwoWayGridView:mergeReleaseProguardFiles
+Skipping task ':TwoWayGridView:mergeReleaseProguardFiles' as it is up-to-date
+:TwoWayGridView:mergeReleaseProguardFiles UP-TO-DATE
+:TwoWayGridView:mergeReleaseProguardFiles (Thread[main,5,main]) - complete
+:TwoWayGridView:packageReleaseAidl (Thread[main,5,main] - start
+:TwoWayGridView:packageReleaseAidl
+Skipping task ':TwoWayGridView:packageReleaseAidl' as it has no source files.
+:TwoWayGridView:packageReleaseAidl UP-TO-DATE
+:TwoWayGridView:packageReleaseAidl (Thread[main,5,main]) - complete
+:TwoWayGridView:prepareReleaseDependencies (Thread[main,5,main] - start
+:TwoWayGridView:prepareReleaseDependencies
+Executing task ':TwoWayGridView:prepareReleaseDependencies' due to:
+  Task has not declared any outputs.
+:TwoWayGridView:prepareReleaseDependencies (Thread[main,5,main]) - complete
+:TwoWayGridView:compileReleaseAidl (Thread[main,5,main] - start
+:TwoWayGridView:compileReleaseAidl
+Skipping task ':TwoWayGridView:compileReleaseAidl' as it is up-to-date
+:TwoWayGridView:compileReleaseAidl UP-TO-DATE
+:TwoWayGridView:compileReleaseAidl (Thread[main,5,main]) - complete
+:TwoWayGridView:generateReleaseBuildConfig (Thread[main,5,main] - start
+:TwoWayGridView:generateReleaseBuildConfig
+Skipping task ':TwoWayGridView:generateReleaseBuildConfig' as it is up-to-date
+:TwoWayGridView:generateReleaseBuildConfig UP-TO-DATE
+:TwoWayGridView:generateReleaseBuildConfig (Thread[main,5,main]) - complete
+:TwoWayGridView:mergeReleaseAssets (Thread[main,5,main] - start
+:TwoWayGridView:mergeReleaseAssets
+Skipping task ':TwoWayGridView:mergeReleaseAssets' as it is up-to-date
+:TwoWayGridView:mergeReleaseAssets UP-TO-DATE
+:TwoWayGridView:mergeReleaseAssets (Thread[main,5,main]) - complete
+:TwoWayGridView:compileReleaseRenderscript (Thread[main,5,main] - start
+:TwoWayGridView:compileReleaseRenderscript
+Skipping task ':TwoWayGridView:compileReleaseRenderscript' as it is up-to-date
+:TwoWayGridView:compileReleaseRenderscript UP-TO-DATE
+:TwoWayGridView:compileReleaseRenderscript (Thread[main,5,main]) - complete
+:TwoWayGridView:mergeReleaseResources (Thread[main,5,main] - start
+:TwoWayGridView:mergeReleaseResources
+Skipping task ':TwoWayGridView:mergeReleaseResources' as it is up-to-date
+:TwoWayGridView:mergeReleaseResources UP-TO-DATE
+:TwoWayGridView:mergeReleaseResources (Thread[main,5,main]) - complete
+:TwoWayGridView:processReleaseManifest (Thread[main,5,main] - start
+:TwoWayGridView:processReleaseManifest
+Skipping task ':TwoWayGridView:processReleaseManifest' as it is up-to-date
+:TwoWayGridView:processReleaseManifest UP-TO-DATE
+:TwoWayGridView:processReleaseManifest (Thread[main,5,main]) - complete
+:TwoWayGridView:processReleaseResources (Thread[main,5,main] - start
+:TwoWayGridView:processReleaseResources
+Skipping task ':TwoWayGridView:processReleaseResources' as it is up-to-date
+:TwoWayGridView:processReleaseResources UP-TO-DATE
+:TwoWayGridView:processReleaseResources (Thread[main,5,main]) - complete
+:TwoWayGridView:compileRelease (Thread[main,5,main] - start
+:TwoWayGridView:compileRelease
+Skipping task ':TwoWayGridView:compileRelease' as it is up-to-date
+:TwoWayGridView:compileRelease UP-TO-DATE
+:TwoWayGridView:compileRelease (Thread[main,5,main]) - complete
+:TwoWayGridView:processReleaseJavaRes (Thread[main,5,main] - start
+:TwoWayGridView:processReleaseJavaRes
+Skipping task ':TwoWayGridView:processReleaseJavaRes' as it has no source files.
+:TwoWayGridView:processReleaseJavaRes UP-TO-DATE
+:TwoWayGridView:processReleaseJavaRes (Thread[main,5,main]) - complete
+:TwoWayGridView:packageReleaseJar (Thread[main,5,main] - start
+:TwoWayGridView:packageReleaseJar
+Skipping task ':TwoWayGridView:packageReleaseJar' as it is up-to-date
+:TwoWayGridView:packageReleaseJar UP-TO-DATE
+:TwoWayGridView:packageReleaseJar (Thread[main,5,main]) - complete
+:TwoWayGridView:packageReleaseLocalJar (Thread[main,5,main] - start
+:TwoWayGridView:packageReleaseLocalJar
+Skipping task ':TwoWayGridView:packageReleaseLocalJar' as it has no source files.
+:TwoWayGridView:packageReleaseLocalJar UP-TO-DATE
+:TwoWayGridView:packageReleaseLocalJar (Thread[main,5,main]) - complete
+:TwoWayGridView:packageReleaseRenderscript (Thread[main,5,main] - start
+:TwoWayGridView:packageReleaseRenderscript
+Skipping task ':TwoWayGridView:packageReleaseRenderscript' as it has no source files.
+:TwoWayGridView:packageReleaseRenderscript UP-TO-DATE
+:TwoWayGridView:packageReleaseRenderscript (Thread[main,5,main]) - complete
+:TwoWayGridView:packageReleaseResources (Thread[main,5,main] - start
+:TwoWayGridView:packageReleaseResources
+Skipping task ':TwoWayGridView:packageReleaseResources' as it is up-to-date
+:TwoWayGridView:packageReleaseResources UP-TO-DATE
+:TwoWayGridView:packageReleaseResources (Thread[main,5,main]) - complete
+:TwoWayGridView:bundleRelease (Thread[main,5,main] - start
+:TwoWayGridView:bundleRelease
+Skipping task ':TwoWayGridView:bundleRelease' as it is up-to-date
+:TwoWayGridView:bundleRelease UP-TO-DATE
+:TwoWayGridView:bundleRelease (Thread[main,5,main]) - complete
+:OmroepMaxPlayer:prepareComActionbarsherlockActionbarsherlock440Library (Thread[main,5,main] - start
+:OmroepMaxPlayer:prepareComActionbarsherlockActionbarsherlock440Library
+Skipping task ':OmroepMaxPlayer:prepareComActionbarsherlockActionbarsherlock440Library' as it is up-to-date
+:OmroepMaxPlayer:prepareComActionbarsherlockActionbarsherlock440Library UP-TO-DATE
+:OmroepMaxPlayer:prepareComActionbarsherlockActionbarsherlock440Library (Thread[main,5,main]) - complete
+:OmroepMaxPlayer:prepareOmroepMaxPlayerTwoWayGridViewUnspecifiedLibrary (Thread[main,5,main] - start
+:OmroepMaxPlayer:prepareOmroepMaxPlayerTwoWayGridViewUnspecifiedLibrary
+Skipping task ':OmroepMaxPlayer:prepareOmroepMaxPlayerTwoWayGridViewUnspecifiedLibrary' as it is up-to-date
+:OmroepMaxPlayer:prepareOmroepMaxPlayerTwoWayGridViewUnspecifiedLibrary UP-TO-DATE
+:OmroepMaxPlayer:prepareOmroepMaxPlayerTwoWayGridViewUnspecifiedLibrary (Thread[main,5,main]) - complete
+:OmroepMaxPlayer:prepareDebugDependencies (Thread[main,5,main] - start
+:OmroepMaxPlayer:prepareDebugDependencies
+Executing task ':OmroepMaxPlayer:prepareDebugDependencies' due to:
+  Task has not declared any outputs.
+:OmroepMaxPlayer:prepareDebugDependencies (Thread[main,5,main]) - complete
+:OmroepMaxPlayer:compileDebugAidl (Thread[main,5,main] - start
+:OmroepMaxPlayer:compileDebugAidl
+Skipping task ':OmroepMaxPlayer:compileDebugAidl' as it is up-to-date
+:OmroepMaxPlayer:compileDebugAidl UP-TO-DATE
+:OmroepMaxPlayer:compileDebugAidl (Thread[main,5,main]) - complete
+:OmroepMaxPlayer:generateDebugBuildConfig (Thread[main,5,main] - start
+:OmroepMaxPlayer:generateDebugBuildConfig
+Skipping task ':OmroepMaxPlayer:generateDebugBuildConfig' as it is up-to-date
+:OmroepMaxPlayer:generateDebugBuildConfig UP-TO-DATE
+:OmroepMaxPlayer:generateDebugBuildConfig (Thread[main,5,main]) - complete
+:OmroepMaxPlayer:mergeDebugAssets (Thread[main,5,main] - start
+:OmroepMaxPlayer:mergeDebugAssets
+Skipping task ':OmroepMaxPlayer:mergeDebugAssets' as it is up-to-date
+:OmroepMaxPlayer:mergeDebugAssets UP-TO-DATE
+:OmroepMaxPlayer:mergeDebugAssets (Thread[main,5,main]) - complete
+:OmroepMaxPlayer:compileDebugRenderscript (Thread[main,5,main] - start
+:OmroepMaxPlayer:compileDebugRenderscript
+Skipping task ':OmroepMaxPlayer:compileDebugRenderscript' as it is up-to-date
+:OmroepMaxPlayer:compileDebugRenderscript UP-TO-DATE
+:OmroepMaxPlayer:compileDebugRenderscript (Thread[main,5,main]) - complete
+:OmroepMaxPlayer:mergeDebugResources (Thread[main,5,main] - start
+:OmroepMaxPlayer:mergeDebugResources
+Skipping task ':OmroepMaxPlayer:mergeDebugResources' as it is up-to-date
+:OmroepMaxPlayer:mergeDebugResources UP-TO-DATE
+:OmroepMaxPlayer:mergeDebugResources (Thread[main,5,main]) - complete
+:OmroepMaxPlayer:processDebugManifest (Thread[main,5,main] - start
+:OmroepMaxPlayer:processDebugManifest
+Skipping task ':OmroepMaxPlayer:processDebugManifest' as it is up-to-date
+:OmroepMaxPlayer:processDebugManifest UP-TO-DATE
+:OmroepMaxPlayer:processDebugManifest (Thread[main,5,main]) - complete
+:OmroepMaxPlayer:processDebugResources (Thread[main,5,main] - start
+:OmroepMaxPlayer:processDebugResources
+Skipping task ':OmroepMaxPlayer:processDebugResources' as it is up-to-date
+:OmroepMaxPlayer:processDebugResources UP-TO-DATE
+:OmroepMaxPlayer:processDebugResources (Thread[main,5,main]) - complete
+:OmroepMaxPlayer:compileDebug (Thread[main,5,main] - start
+:OmroepMaxPlayer:compileDebug
+Executing task ':OmroepMaxPlayer:compileDebug' due to:
+  Output file /Users/Ken/Projects/MAX/OmroepMaxPlayer/OmroepMaxPlayer/build/dependency-cache/debug has changed.
+  Output file /Users/Ken/Projects/MAX/OmroepMaxPlayer/OmroepMaxPlayer/build/classes/debug has changed.
+  Output file /Users/Ken/Projects/MAX/OmroepMaxPlayer/OmroepMaxPlayer/build/classes/debug/nl/omroepmax/player/R$string.class has been removed.
+Compiling with JDK Java compiler API.
+:OmroepMaxPlayer:compileDebug FAILED
+:OmroepMaxPlayer:compileDebug (Thread[main,5,main]) - complete
+
+BUILD FAILED
+
+Total time: 7.743 secs

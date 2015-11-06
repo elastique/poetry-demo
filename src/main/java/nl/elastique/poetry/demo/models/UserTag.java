@@ -6,12 +6,17 @@ import com.j256.ormlite.table.DatabaseTable;
 @DatabaseTable
 public class UserTag
 {
-    @DatabaseField(generatedId = true)
-    public int id;
+    @DatabaseField(generatedId = true, columnName = "id")
+    private int mId;
 
-    @DatabaseField(foreign = true)
-    public User user;
+    @DatabaseField(foreign = true, columnName = "user_id")
+    private User mUser;
 
-    @DatabaseField
-    public String value;
+    @DatabaseField(columnName = "value")
+    private String mValue;
+
+    public String getTag()
+    {
+        return mValue;
+    }
 }

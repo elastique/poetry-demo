@@ -6,13 +6,13 @@ import android.database.sqlite.SQLiteDatabase;
 import com.j256.ormlite.android.apptools.OpenHelperManager;
 import com.j256.ormlite.support.ConnectionSource;
 
-import nl.elastique.poetry.data.database.DatabaseConfiguration;
+import nl.elastique.poetry.database.DatabaseConfiguration;
 import nl.elastique.poetry.demo.models.Group;
 import nl.elastique.poetry.demo.models.User;
 import nl.elastique.poetry.demo.models.UserGroup;
 import nl.elastique.poetry.demo.models.UserTag;
 
-public class DatabaseHelper extends nl.elastique.poetry.data.database.DatabaseHelper
+public class DatabaseHelper extends nl.elastique.poetry.database.DatabaseHelper
 {
     public final static DatabaseConfiguration sConfiguration = new DatabaseConfiguration(2, new Class<?>[]
     {

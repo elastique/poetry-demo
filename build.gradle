@@ -27,8 +27,7 @@ apply plugin: 'com.android.application'
 dependencies {
     compile (
         // Poetry
-        [group: 'nl.elastique.poetry', name: 'poetry-core', version: '2.0+'],
-        [group: 'nl.elastique.poetry', name: 'poetry-data', version: '2.0+'],
+        [group: 'nl.elastique.poetry', name: 'poetry', version: '3.0.1'],
 
         // Android
         [group: 'com.android.support', name: 'support-v4', version: '23+'],
@@ -44,7 +43,7 @@ dependencies {
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.1"
+    buildToolsVersion "23.0.2"
 
     defaultConfig {
         minSdkVersion 10
